@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581597173141.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8E97F380",
+    "lastKnownWriteTime" : 1581604089,
+    "last_content_update" : 1581604089217,
+    "path" : "C:/Users/Y.S. Kim/Desktop/Ubiqum/R/dplyr/dplyr script.R",
+    "project_path" : "dplyr script.R",
+    "properties" : {
+        "cursorPosition" : "73,23",
+        "scrollLine" : "56",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

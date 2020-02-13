@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581597362555.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3D6B6360",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1581597362555,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "400E5464",
+        "caption" : "msleep_ggplot2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=msleep_ggplot2&cache_key=400E5464",
+        "displayedObservations" : 83,
+        "environment" : "",
+        "expression" : "msleep_ggplot2",
+        "object" : "msleep_ggplot2",
+        "preview" : 0,
+        "totalObservations" : 83,
+        "variables" : 12
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581603060325.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "33919C91",
+    "lastKnownWriteTime" : 2314885436531619633,
+    "last_content_update" : 1581603060325,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "56EA6971",
+        "caption" : "msleep2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=msleep2&cache_key=56EA6971",
+        "displayedObservations" : "20",
+        "environment" : "",
+        "expression" : "msleep2",
+        "object" : "msleep2",
+        "preview" : "0",
+        "totalObservations" : "20",
+        "variables" : "13"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
